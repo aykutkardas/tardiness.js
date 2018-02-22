@@ -13,8 +13,8 @@
 
 ```js
   tardiness.crypto("Hello world!", "tea");
-  // Output: "¼ÊÍàÔëÔÓàÉ"
+  // Output: "¼ÊÍàÔ\u0081ëÔÓàÉ\u0082"
   
-  tardiness.decrypto("¼ÊÍàÔëÔÓàÉ", "tea");
+  tardiness.decrypto("¼ÊÍàÔ\u0081ëÔÓàÉ\u0082", "tea");
   // Output: "Hello world!"
 ```
