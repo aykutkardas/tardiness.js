@@ -1,7 +1,10 @@
 # tardiness.js
-#### Simple and easy encryption.
 
-##### Usage
+Simple and easy encryption. Less than **1 kb**.
+
+
+
+## Usage
 
 ```js
   tardiness.crypto(message, key);
@@ -9,7 +12,7 @@
   tardiness.decrypto(message, key);
 ```
 
-##### Example
+## Sample
 
 ```js
   tardiness.crypto("Hello world!", "tea");
