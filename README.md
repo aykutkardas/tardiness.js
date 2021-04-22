@@ -2,7 +2,7 @@
 
 Simple and easy encryption. Less than **1 kb**.
 
-
+> This is just a challenge project. Its use is not recommended.
 
 ## Usage
 
